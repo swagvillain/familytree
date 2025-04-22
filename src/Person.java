@@ -15,6 +15,8 @@ public class Person {
 
     private Marriage[] marriages;
 
+    private Person[] children;
+
 
     /**
      * @param fName Person's first name
